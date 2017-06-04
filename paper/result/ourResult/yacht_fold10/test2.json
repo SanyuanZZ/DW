@@ -1,0 +1,9 @@
+{"rmseUlt": 6.275681010348094, "trainSample": 51, "scale": 0.015625, "rmseTrain": 3.036376088825945, "time": 20.5239999294281}
+{"rmseUlt": 5.654410283240453, "trainSample": 73, "scale": 0.03125, "rmseTrain": 3.0046072177945176, "time": 32.40599989891052}
+{"rmseUlt": 5.5352255207704175, "trainSample": 96, "scale": 0.00390625, "rmseTrain": 2.8611344803625616, "time": 42.27500009536743}
+{"rmseUlt": 5.283156792731415, "trainSample": 118, "scale": 0.03125, "rmseTrain": 2.873430233811095, "time": 54.812000036239624}
+{"rmseUlt": 4.968192961200193, "trainSample": 141, "scale": 0.0625, "rmseTrain": 2.8604844434603245, "time": 70.19700002670288}
+{"rmseUlt": 3.8950812935052044, "trainSample": 163, "scale": 1, "rmseTrain": 2.2334991228038796, "time": 89.58599996566772}
+{"rmseUlt": 3.3141365713018343, "trainSample": 186, "scale": 1, "rmseTrain": 1.7001977212913453, "time": 112.41899991035461}
+{"rmseUlt": 2.793753247059692, "trainSample": 208, "scale": 1, "rmseTrain": 1.602967826791971, "time": 129.3600001335144}
+{"rmseUlt": 2.321097282396711, "trainSample": 231, "scale": 0.25, "rmseTrain": 1.683296903977573, "time": 149.66100001335144}

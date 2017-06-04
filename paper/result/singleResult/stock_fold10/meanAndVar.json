@@ -1,0 +1,7 @@
+meanRmseTrain{"scale_0": 0.004751987334227162}meanRmseTest{"scale_0": 0.0053244801512670765}stdRmseTrain{"scale_0": 0.00011137994532481511}stdRmseTest{"scale_0": 0.00015056189842466567}
+meanRmseTrain{"scale_1": 0.004758202581730012}meanRmseTest{"scale_1": 0.005205055583166228}stdRmseTrain{"scale_1": 8.33016249822814e-05}stdRmseTest{"scale_1": 3.235043934529711e-05}
+meanRmseTrain{"scale_2": 0.004915778605276691}meanRmseTest{"scale_2": 0.0052380271269362785}stdRmseTrain{"scale_2": 8.849424748670288e-05}stdRmseTest{"scale_2": 4.7149016209947385e-05}
+meanRmseTrain{"scale_3": 0.004816825191641434}meanRmseTest{"scale_3": 0.005137949941181608}stdRmseTrain{"scale_3": 6.825204664293726e-05}stdRmseTest{"scale_3": 3.655651259301563e-05}
+meanRmseTrain{"scale_4": 0.004814274523146667}meanRmseTest{"scale_4": 0.005144788328806436}stdRmseTrain{"scale_4": 5.490584035630421e-05}stdRmseTest{"scale_4": 3.69936344985235e-05}
+meanRmseTrain{"scale_5": 0.004818686556282006}meanRmseTest{"scale_5": 0.005151536615396951}stdRmseTrain{"scale_5": 5.1132288465703165e-05}stdRmseTest{"scale_5": 2.820856826357227e-05}
+meanRmseTrain{"scale_6": 0.004820740630905866}meanRmseTest{"scale_6": 0.005151371681011126}stdRmseTrain{"scale_6": 5.522223779634692e-05}stdRmseTest{"scale_6": 3.462061797820534e-05}
